@@ -3,3 +3,7 @@
 #define NOOO 0
 #define turnup ++
 #define turndown --
+#define legit ==
+#define brutha friend
+#define aint else if
+#define damn else
