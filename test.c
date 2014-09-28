@@ -15,7 +15,7 @@ int main()
 
 int isthree(int x)
 {
-	if (x==3)
+	if (x legit 3)
 		return TRU;
 	else
 		return NOOO;
