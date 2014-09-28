@@ -17,4 +17,5 @@
 #define crazy_AF volatile
 #define leggo while
 #define f_this_shit break
+#define oh_shit throw
 
