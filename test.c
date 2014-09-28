@@ -15,10 +15,12 @@ int main()
 
 int isthree(int x)
 {
-	if (x legit 3)
-		return TRU;
-	else
-		return NOOO;
+	iz (x legit 3)
+		yo TRU;
+	aint (x nah legit 3)
+		yo NOOO;
+	damn
+		yo NOOO;
 }
 
 
