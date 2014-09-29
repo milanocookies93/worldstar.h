@@ -8,7 +8,7 @@
 #define brutha friend
 #define aint else if
 #define damn else
-#define nah not
+#define nah !=
 #define iz if
 #define yo return
 #define tryna do
@@ -18,4 +18,4 @@
 #define leggo while
 #define f_this_shit break
 #define oh_shit throw
-
+#define spit printf

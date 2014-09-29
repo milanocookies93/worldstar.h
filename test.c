@@ -9,7 +9,7 @@ int main()
 	var turnup;
 	var turndown;
 	if (isthree(var))
-		printf("Hello World\n");
+		spit("Hello World\n");
 	worldstar;
 }
 
@@ -17,7 +17,7 @@ int isthree(int x)
 {
 	iz (x legit 3)
 		yo TRU;
-	aint (x nah legit 3)
+	aint (x nah 3)
 		yo NOOO;
 	damn
 		yo NOOO;
